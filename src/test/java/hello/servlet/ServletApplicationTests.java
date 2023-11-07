@@ -8,6 +8,7 @@ class ServletApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("test");
 	}
 
 }
